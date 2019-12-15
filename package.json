@@ -1,6 +1,6 @@
 {
   "name": "minimal-yaml-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal loader for yaml config file.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "yaml",
     "yml",
     "config"
+  ],
+  "files": [
+    "index.js"
   ],
   "author": "Menushka Weeratunga <contact@menushka.ca> (https://menushka.ca/)",
   "license": "ISC",
