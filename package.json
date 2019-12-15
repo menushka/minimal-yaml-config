@@ -1,0 +1,22 @@
+{
+  "name": "minimal-yaml-config",
+  "version": "1.0.0",
+  "description": "Minimal loader for yaml config file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test; jest"
+  },
+  "keywords": [
+    "yaml",
+    "yml",
+    "config"
+  ],
+  "author": "Menushka Weeratunga <contact@menushka.ca> (https://menushka.ca/)",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
